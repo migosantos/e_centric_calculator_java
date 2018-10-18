@@ -1,4 +1,4 @@
-# e_centric_calculator_java
+# E-centric Calculator (Java)
 Calculator (JAVA based)
 
 ## Building and Running JUnit Tests:
